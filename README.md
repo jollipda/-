@@ -3,7 +3,8 @@
 
 1주차 hello world 실습
 
- 주차 실습
- ...........  ............
- hello world
- github classroom
+ |주차 |실습|
+ |...........|  ............|
+ |1|hello world|
+ |2|github classroom|
+ |3|github action|
